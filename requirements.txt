@@ -1,0 +1,5 @@
+alpaca-py
+httpx
+pandas
+numpy
+python-dotenv
